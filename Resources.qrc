@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/imgs">
+        <file>../demo_imgs/fb.png</file>
+        <file>../demo_imgs/google.png</file>
+        <file>../demo_imgs/wechat.png</file>
+    </qresource>
+</RCC>
